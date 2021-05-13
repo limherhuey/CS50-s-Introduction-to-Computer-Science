@@ -7,7 +7,7 @@ Please read through CS50's [Academic Honesty](https://cs50.harvard.edu/x/2020/ho
 With that said, the best way to learn is to implement it yourself. Try to solve the Problem Sets on your own before taking a peek at other people's solutions. Victory will taste sweeter too :)
 
 ## Table of Contents
----
+
 * [Problem Set 2: C](pset2/) - [problem description](https://cs50.harvard.edu/x/2020/psets/2/)
     - [Readability](pset2/readability/)
     - [Caesar](pset2/caesar/)

@@ -40,10 +40,6 @@ With that said, the best way to learn is to implement it yourself. Try to solve 
     - [Movies](pset7/movies/)
     - [Houses](pset7/houses/)
 
-* [Web Track](pset8/web/) - [problem description](https://cs50.harvard.edu/x/2020/tracks/web/)
+* [PSet8: Web Track](pset8/web/) - [problem description](https://cs50.harvard.edu/x/2020/tracks/web/)
     - [Homepage](pset8/web/homepage/)
     - [Finance](pset8/web/finance/)
-
-* [Games Track](pset8/games/) - [problem description](https://cs50.harvard.edu/x/2020/tracks/games/)
-    - [Pong](pset8/games/pong/)
-    - [Mario](pset8/games/mario/)

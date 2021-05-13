@@ -1,0 +1,15 @@
+# ignore all files with no extensions
+*
+!*.*
+!*/
+
+!pset5/speller/dictionaries/*
+
+*.o
+
+# databases
+finance.db
+planner.db
+
+# final project
+final project/

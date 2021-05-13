@@ -1,0 +1,50 @@
+.title
+{
+    text-align: center;
+    color: chocolate;
+}
+
+p, form, a, div
+{
+    margin-left: 1rem;
+    color: brown;
+}
+
+/* the "item" class is for text in Chocolate Item pages */
+h4.item
+{
+    margin-left: 1rem;
+    color: chocolate;
+}
+
+p.item
+{
+    color: SaddleBrown;
+}
+
+#italics
+{
+    font-style: italic;
+}
+
+table
+{
+    text-align: center;
+    color: pink;
+    border: 1px solid brown;
+    border-collapse: collapse;
+    margin-left: 1rem;
+}
+
+td, th
+{
+    border: 1px solid brown;
+    padding: 5px;
+}
+
+img
+{
+    width: 35%;
+    height: 35%;
+    text-align: center;
+}

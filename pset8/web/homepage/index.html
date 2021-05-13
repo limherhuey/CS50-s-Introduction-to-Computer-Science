@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title>
+            Chocolate Homepage
+        </title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        <link rel="stylesheet" href="styles.css">
+        <script src="homepage.js"></script>
+    </head>
+    <body>
+        <h1 class="title">Welcome to the World of Chocolate!</h1>
+        <h4 class="title">sweet and gooey, delightful and delectable, creamy, rich pleasure</h4>
+        <p id="italics"><br>Do you love chocolate? Feel free to explore this World of Chocolate which brings you through a virtual experience of all things chocolate!</p>
+
+        <div class="alert alert-warning" role="alert">
+          <strong>New here?</strong> Start by clicking on one of the chocolate items to check it out!
+        </div>
+
+        <p> Click on the respective names of chocolate things below to see their description!</p>
+        <a href="/brs" class="text-info">Brownies with Strawberries<br></a>
+        <a href="/hcc" class="text-info">Hot Chocolate<br></a>
+        <a href="/bri" class="text-info">Brownies with Ice Cream<br></a>
+
+        <p><br>For a comparison of the two brownie items, please refer to the table below.</p>
+        <table>
+            <tr>
+                <th></th>
+                <th>Brownies with Strawberries</th>
+                <th>Brownies with Ice Cream</th>
+            </tr>
+            <tr>
+                <td>Toppings</td>
+                <td>Strawberries</td>
+                <td>Vanilla Ice Cream</td>
+            </tr>
+            <tr>
+                <td>Syrup</td>
+                <td>None</td>
+                <td>Chocolate</td>
+            </tr>
+            <tr>
+                <td>Size</td>
+                <td>Small</td>
+                <td>Large</td>
+            </tr>
+            <tr>
+                <td>Number</td>
+                <td>Two</td>
+                <td>One</td>
+            </tr>
+        </table>
+
+        <p class="text-muted"><br><br>Thank you for visiting, I hope you to see you again! Please type in your suggestions below for more chocolate items to be added!</p>
+        <form onsubmit="submitted(); return false;">
+            <input type="text" id="suggestion" placeholder="Chocolate Item">
+            <input type="submit" value="Suggest">
+        </form>
+        <div id="message"></div>
+
+        <p class="text-muted"><br>Alternatively, you may search Google for the chocolate item you want to know more about!</p>
+        <form action="https://www.google.com/search" method="get">
+            <input name="q" type="text" placeholder="Google Search">
+            <input type="submit" value="Search">
+            <br><br><br>
+        </form>
+    </body>
+</html>

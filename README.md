@@ -1,13 +1,17 @@
 # CS50's Introduction to Computer Science - 2020
 > Thank you Professor David J. Malan and instructors for this wonderful course!
 
+This repository contains my solutions to the problem sets in this course. All of them received a 100%.
+
 ## Integrity
 Please read through CS50's [Academic Honesty](https://cs50.harvard.edu/x/2020/honesty/) policy and do what is reasonable.
 
 With that said, the best way to learn is to implement it yourself. Try to solve the Problem Sets on your own before taking a peek at other people's solutions. Victory will taste sweeter too :)
 
-## Table of Contents
+## Tracks
+The 2020 version of CS50x has 4 tracks: web, games and mobile app (iOS or Android). Check out my code for the games track [here](https://github.com/limherhuey/CS50g/tree/master/CS50x_games_track).
 
+## Table of Contents
 * [Problem Set 2: C](pset2/) - [problem description](https://cs50.harvard.edu/x/2020/psets/2/)
     - [Readability](pset2/readability/)
     - [Caesar](pset2/caesar/)
